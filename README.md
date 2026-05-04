@@ -5,6 +5,7 @@ Materials
 1. Laptops
 2. Visual Studio Code (VSCode) with Python extension
 3. MATLAB with Robotics Toolbox by Peter Corke
+4. Spartan Robokit
 
 ---
 
